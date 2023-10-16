@@ -17,7 +17,9 @@ Each folder has its own specific README. If you're interested in a particular pr
 If you're a recruiter looking to understand my work and skills better:
 
 Technical Proficiency: Take a look at the Code folder to view my coding skills and how I approached problem-solving.
+
 Project Management: The Projects folder gives a step-by-step breakdown of how I managed and executed various projects.
+
 Learning & Growth: My Notes reflect how I understand, interpret, and grow in the field of robotics.
 
 # Contact
