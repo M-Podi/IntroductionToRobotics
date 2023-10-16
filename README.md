@@ -6,11 +6,17 @@ Robotics is the intersection of technology, engineering, and creativity. The pro
 
 # Repository Contents
 Projects: Dive deep into each project I worked on, from conceptualization to realization.
+
 Notes: Personal notes and observations made during the learning process.
+
 Code: Samples of code used in various robotics projects.
+
 Images & Videos: Visuals always help! Check out some of the robots in action.
+
 Resources: A collection of resources I found helpful in this journey.
+
 How to Navigate
+
 Each folder has its own specific README. If you're interested in a particular project or topic, navigate to its respective folder and follow the README there.
 
 # For Recruiters
