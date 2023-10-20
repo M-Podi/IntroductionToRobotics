@@ -1,8 +1,7 @@
 # IntroductionToRobotics
-![Wallpaper](./media/IntroductionToRoboticsWallpaper.png)
 
 <p align="center">
-  <img src="./media/IntroductionToRoboticsWallpaper.png" alt="Centered Image" width="200"/>
+  <img src="./media/IntroductionToRoboticsWallpaper.png" alt="Centered Image" width="400"/>
 </p>
 
 Welcome to the "IntroductionToRobotics" repository! This repository showcases my journey and work in the fascinating world of robotics. It's designed to give a brief insight into my projects, my thought process, and the solutions I implemented.
