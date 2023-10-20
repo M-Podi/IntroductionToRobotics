@@ -35,4 +35,5 @@ Project Management: The Projects folder gives a step-by-step breakdown of how I 
 Learning & Growth: My Notes reflect how I understand, interpret, and grow in the field of robotics.
 
 # Contact
-For any queries, collaboration opportunities, or general feedback, please reach me at matei-alexandru.podeanu@s.unibuc.ro.
+For any queries, collaboration opportunities, or general feedback, please reach me at
+matei-alexandru.podeanu@s.unibuc.ro.
