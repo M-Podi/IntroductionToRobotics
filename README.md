@@ -5,16 +5,16 @@ Welcome to the "IntroductionToRobotics" repository! This repository showcases my
 Robotics is the intersection of technology, engineering, and creativity. The projects and tasks in this repository are a testament to the ever-evolving world of robotics and how I approached them. While this isn't a tutorial, it's a window into the vast possibilities within the domain and my personal take on them.
 
 # Repository Contents
-Projects: Dive deep into each project I worked on, from conceptualization to realization.
 
-Notes: Personal notes and observations made during the learning process.
-[Notes](./notes/)
+[Code](./code/): Samples of code used in various robotics projects.
 
-Code: Samples of code used in various robotics projects.
+[Media](./media/): Visuals always help! Check out some of the robots in action.
 
-Images & Videos: Visuals always help! Check out some of the robots in action.
+[Notes](./notes/): Personal notes and observations made during the learning process.
 
-Resources: A collection of resources I found helpful in this journey.
+[Projects](./projects/): Dive deep into each project I worked on, from conceptualization to realization.
+
+[Resources](./resources/): A collection of resources I found helpful in this journey.
 
 How to Navigate
 
