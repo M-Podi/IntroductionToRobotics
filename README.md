@@ -36,4 +36,5 @@ Learning & Growth: My Notes reflect how I understand, interpret, and grow in the
 
 # Contact
 For any queries, collaboration opportunities, or general feedback, please reach me at
+
 matei-alexandru.podeanu@s.unibuc.ro.
