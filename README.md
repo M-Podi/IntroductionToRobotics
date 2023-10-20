@@ -1,9 +1,5 @@
 # IntroductionToRobotics
 
-<p align="center">
-  <img src="./media/IntroductionToRoboticsWallpaper.png" alt="Centered Image" width="400"/>
-</p>
-
 Welcome to the "IntroductionToRobotics" repository! This repository showcases my journey and work in the fascinating world of robotics. It's designed to give a brief insight into my projects, my thought process, and the solutions I implemented.
 
 # Description
@@ -36,3 +32,7 @@ Learning & Growth: My Notes reflect how I understand, interpret, and grow in the
 
 # Contact
 For any queries, collaboration opportunities, or general feedback, please reach me at matei-alexandru.podeanu@s.unibuc.ro.
+
+<p align="center">
+  <img src="./media/ITRW.png" alt="Centered Image" width="400"/>
+</p>
