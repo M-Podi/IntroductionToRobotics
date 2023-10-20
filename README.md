@@ -16,7 +16,7 @@ Robotics is the intersection of technology, engineering, and creativity. The pro
 
 [Resources](./resources/): A collection of resources I found helpful in this journey.
 
-## How to Navigate?
+### How to Navigate?
 
 Each folder has its own specific README. If you're interested in a particular project or topic, navigate to its respective folder and follow the README there.
 
