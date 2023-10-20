@@ -8,6 +8,7 @@ Robotics is the intersection of technology, engineering, and creativity. The pro
 Projects: Dive deep into each project I worked on, from conceptualization to realization.
 
 Notes: Personal notes and observations made during the learning process.
+[Notes](./notes/)
 
 Code: Samples of code used in various robotics projects.
 
