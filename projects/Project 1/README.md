@@ -7,7 +7,7 @@ Controlul fiecărui canal (Roșu, Verde și Albastru) al unui LED RGB folosind p
 ### Configurație:
 
 <p align="center">
-  <img src="../../media/Project1.jpg" alt="Centered Image" width="400"/>
+  <img src="../../media/Project1CircuitView.jpg" alt="Centered Image" width="400"/>
 </p>
 
 Există trei potențiometre, fiecare asociat cu una dintre culorile RGB (Roșu, Verde, Albastru). Aceste potențiometre sunt conectate la pinii Arduino A0, A1 și A2, respectiv.
@@ -31,6 +31,10 @@ Există o caracteristică suplimentară care se ocupă de LED-urile RGB cu anod 
 După calculul nivelurilor de luminozitate dorite pentru fiecare culoare, Arduino setează luminozitatea folosind funcția analogWrite().
 
 În plus, în scopuri de depanare, codul imprimă și valorile de luminozitate în monitorul serial.
+
+<p align="center">
+  <img src="../../media/Project1.jpg" alt="Centered Image" width="400"/>
+</p>
 
 ### Rezultat așteptat:
 Când rotiți un potențiometru, luminozitatea culorii LED asociate ar trebui să se schimbe în consecință. Ajustând cele trei potențiometre, se pot combina diferite cantități de roșu, verde și albastru pentru a produce o gamă largă de culori pe LED-ul RGB.
