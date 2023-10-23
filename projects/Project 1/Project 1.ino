@@ -1,11 +1,11 @@
 // Define pin connections for the potentiometers
-const int PotRedPin = A0;
-const int PotGreenPin = A1;
-const int PotBluePin = A2;
+const int InputRedPin = A0;
+const int InputGreenPin = A1;
+const int InputBluePin = A2;
 
 // Define the minimum and maximum readings from the potentiometers
-const int minPotValue = 15;
-const int maxPotValue = 1023;
+const int minInputValue = 15;
+const int maxInputValue = 1023;
 
 // Define whether the RGB LED is of common anode type (1 for Yes, 0 for No)
 const int commonAnode = 0;
@@ -20,9 +20,9 @@ const int minLedValue = 0;
 const int maxLedValue = 255;
 
 // Variables to store current potentiometer readings
-int redPotValue = 0;
-int greenPotValue = 0;
-int bluePotValue = 0;
+int redInputValue = 0;
+int greenInputValue = 0;
+int blueInputValue = 0;
 
 // Variables to store current LED brightness levels
 int redLedValue = 0;
@@ -31,9 +31,9 @@ int blueLedValue = 0;
 
 void setup() {
   // Set potentiometer pins as input
-  pinMode(PotRedPin, INPUT);
-  pinMode(PotGreenPin, INPUT);
-  pinMode(PotBluePin, INPUT);
+  pinMode(InputRedPin, INPUT);
+  pinMode(InputGreenPin, INPUT);
+  pinMode(InputBluePin, INPUT);
 
   // Set LED pins as output
   pinMode(redLedPin, OUTPUT);
@@ -46,29 +46,29 @@ void setup() {
 
 void loop() {
   // Read values from potentiometers
-  redPotValue = analogRead(PotRedPin);
-  greenPotValue = analogRead(PotGreenPin);
-  bluePotValue = analogRead(PotBluePin);
+  redInputValue = analogRead(InputRedPin);
+  greenInputValue = analogRead(InputGreenPin);
+  blueInputValue = analogRead(InputBluePin);
 
   // Map red potentiometer reading to LED brightness
-  if(redPotValue < minPotValue) {
+  if(redInputValue < minInputValue) {
     redLedValue = 0;
   } else {
-    redLedValue = map(redPotValue, minPotValue, maxPotValue, minLedValue, maxLedValue);
+    redLedValue = map(redInputValue, minInputValue, maxInputValue, minLedValue, maxLedValue);
   }
 
   // Map green potentiometer reading to LED brightness
-  if(greenPotValue < minPotValue) {
+  if(greenInputValue < minInputValue) {
     greenLedValue = 0;
   } else {
-    greenLedValue = map(greenPotValue, minPotValue, maxPotValue, minLedValue, maxLedValue);
+    greenLedValue = map(greenInputValue, minInputValue, maxInputValue, minLedValue, maxLedValue);
   }
 
   // Map blue potentiometer reading to LED brightness
-  if(bluePotValue < minPotValue) {
+  if(blueInputValue < minInputValue) {
     blueLedValue = 0;
   } else {
-    blueLedValue = map(bluePotValue, minPotValue, maxPotValue, minLedValue, maxLedValue);
+    blueLedValue = map(blueInputValue, minInputValue, maxInputValue, minLedValue, maxLedValue);
   }
 
   // If using a common anode RGB LED, inverse the LED values
