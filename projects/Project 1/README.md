@@ -7,7 +7,7 @@ Controlul fiecărui canal (Roșu, Verde și Albastru) al unui LED RGB folosind p
 ### Configurație:
 
 <p align="center">
-  <img src="../media/Project1.jpg" alt="Centered Image" width="400"/>
+  <img src="../../media/Project1.jpg" alt="Centered Image" width="400"/>
 </p>
 
 Există trei potențiometre, fiecare asociat cu una dintre culorile RGB (Roșu, Verde, Albastru). Aceste potențiometre sunt conectate la pinii Arduino A0, A1 și A2, respectiv.
