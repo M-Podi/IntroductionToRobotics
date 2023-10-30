@@ -25,5 +25,7 @@ Liftul așteaptă o anumită întârziere (startMoveDelayDuration) înainte de a
 <p align="center">
   <img src="../../media/ProjectElevator.jpg" alt="Vedere elevator" width="400"/>
 </p>
+
 ## Rezultat așteptat:
+
 Atunci când un buton este apăsat, liftul ar trebui să se deplaseze către etajul corespunzător, iar LED-ul pentru acel etaj ar trebui să se aprindă. LED-ul de funcționare ar trebui să clipească în timp ce liftul se mișcă și să rămână aprins atunci când liftul este staționar.
