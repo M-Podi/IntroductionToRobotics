@@ -4,6 +4,9 @@ Simularea unui sistem de lift cu trei etaje folosind un microcontroler Arduino. 
 
 ## Descriere tehnică:
 ### Configurație:
+<p align="center">
+  <img src="../../media/Project2CircuitView.jpg" alt="Centered Image" width="400"/>
+</p>
 
 Prezintă trei LED-uri, fiecare reprezentând unul dintre etajele liftului. Acestea sunt conectate la pinii Arduino specificați în array-ul floorLEDs[].
 
