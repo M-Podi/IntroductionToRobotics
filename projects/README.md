@@ -4,8 +4,8 @@ This folder contains a compilation of the various robotics projects I've underta
 
 ## Contents
 
-[RGB LED](./projects/Project 1/):
+[RGB LED](./projects/Project 1):
 
-[Elevator Simulator](./projects/Project 2/):
+[Elevator Simulator](./projects/Project 2):
 
 Dive in to explore each project's objectives, my approach, and the outcomes!
