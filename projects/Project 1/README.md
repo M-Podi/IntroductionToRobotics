@@ -1,4 +1,4 @@
-# Introducere în Robotică: Proiect 1
+# Introducere în Robotică: Controlarea Led-ului RGB
 
 ## Obiectiv:
 Controlul fiecărui canal (Roșu, Verde și Albastru) al unui LED RGB folosind potențiometre individuale. Potențiometrele vor ajusta luminozitatea fiecărei culori LED, schimbând astfel culoarea generală emisă de LED-ul RGB.
