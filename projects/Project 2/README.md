@@ -1,4 +1,4 @@
-# Introducere în Robotică: Proiect Elevator Simulat
+# Introducere în Robotică: Proiect Simulator Lift
 ## Obiectiv:
 Simularea unui sistem de lift cu trei etaje folosind un microcontroler Arduino. Sistemul trebuie să poată gestiona următoarele funcționalități: navigarea între etaje, indicarea etajului curent, interacțiunea cu butoanele și indicarea stării de funcționare a liftului.
 
