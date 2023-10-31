@@ -4,7 +4,7 @@ This folder contains a compilation of the various robotics projects I've underta
 
 ## Contents
 
-[RGB LED](./projects/Project 1):
+[RGB LED](./projects/Project%201):
 
 [Elevator Simulator](./projects/Project 2):
 
