@@ -41,4 +41,5 @@ Când rotiți un potențiometru, luminozitatea culorii LED asociate ar trebui s�
 
 ## Proof that it works:
 
-https://youtu.be/3dDfjG6fO6w
+![https://youtu.be/3dDfjG6fO6w]
+!(https://youtu.be/3dDfjG6fO6w)
