@@ -4,7 +4,7 @@ This folder contains a compilation of the various robotics projects I've underta
 
 ## Contents
 
-[RGB LED](./projects/Project%201):
+[RGB LED](https://github.com/M-Podi/IntroductionToRobotics/tree/main/projects/Project%201):
 
 [Elevator Simulator](./projects/Project%202):
 
