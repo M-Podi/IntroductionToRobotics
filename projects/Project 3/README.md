@@ -26,3 +26,4 @@ Poziția inițială a cursorului este la punctul zecimal (DP) al afișajului, ia
 La final, utilizatorul va putea controla afișajul cu 7 segmente pentru a crea diverse "desene" prin aprinderea și stingerea segmentelor. Această interacțiune va oferi o înțelegere practică a modului în care intrările utilizatorului (prin joystick) pot fi folosite pentru a controla ieșiri hardware (LED-uri pe afișajul cu 7 segmente).
 
 ## Proof that it works
+https://youtu.be/oY5s_sVXUuM
