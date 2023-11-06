@@ -5,6 +5,11 @@
 Scopul acestei sarcini este de a utiliza un joystick pentru a controla poziția unui segment pe un afișaj cu 7 segmente și a "desena" prin comutarea stării segmentelor individuale. Mișcarea între segmente trebuie să fie intuitivă și permisă doar între segmente adiacente, fără a trece prin "pereți".
 
 ## Configurație
+
+<p align="center">
+  <img src="../../media/ProjecteCircuitView.jpg" alt="Centered Image" width="400"/>
+</p>
+
 Componentele necesare includ:
 - Un afișaj cu 7 segmente, cu fiecare din cele 7 segmente și punctul zecimal (DP) conectate la pinii digitali ai Arduino, specificați în codul sursă.
 - Un joystick cu două axe și un buton, conectat la pinii analogici pentru citirea pozițiilor axelor și la un pin digital pentru buton.
@@ -13,6 +18,10 @@ Componentele necesare includ:
 Fiecare segment al afișajului cu 7 segmente este controlat de un pin digital diferit pe placa Arduino, iar starea fiecărui pin (aprins sau stins) este determinată de poziția joystick-ului și de interacțiunea cu butonul. Acest lucru permite afișajului să "deseneze" prin aprinderea sau stingerea segmentelor individuale.
 
 Poziția inițială a cursorului este la punctul zecimal (DP) al afișajului, iar poziția curentă clipește constant pentru a indica selecția activă.
+
+<p align="center">
+  <img src="../../media/Project3.jpg" alt="Centered Image" width="400"/>
+</p>
 
 ## Funcționare
 - Joystick-ul citit prin pinii analogici permite utilizatorului să deplaseze poziția activă între segmentele afișajului.
