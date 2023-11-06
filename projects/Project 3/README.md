@@ -7,7 +7,7 @@ Scopul acestei sarcini este de a utiliza un joystick pentru a controla poziția 
 ## Configurație
 
 <p align="center">
-  <img src="../../media/ProjecteCircuitView.jpg" alt="Centered Image" width="400"/>
+  <img src="../../media/Project3CircuitView.jpg" alt="Centered Image" width="400"/>
 </p>
 
 Componentele necesare includ:
