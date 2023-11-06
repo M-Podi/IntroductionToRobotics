@@ -8,6 +8,7 @@ Scopul acestei sarcini este de a utiliza un joystick pentru a controla poziția 
 Componentele necesare includ:
 - Un afișaj cu 7 segmente, cu fiecare din cele 7 segmente și punctul zecimal (DP) conectate la pinii digitali ai Arduino, specificați în codul sursă.
 - Un joystick cu două axe și un buton, conectat la pinii analogici pentru citirea pozițiilor axelor și la un pin digital pentru buton.
+- Buzzer conectat la un pin Arduino, folosit pentru a oferi un feedback la input-ul utilizatorului.
 
 Fiecare segment al afișajului cu 7 segmente este controlat de un pin digital diferit pe placa Arduino, iar starea fiecărui pin (aprins sau stins) este determinată de poziția joystick-ului și de interacțiunea cu butonul. Acest lucru permite afișajului să "deseneze" prin aprinderea sau stingerea segmentelor individuale.
 
