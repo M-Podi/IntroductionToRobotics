@@ -36,7 +36,7 @@ După calculul nivelurilor de luminozitate dorite pentru fiecare culoare, Arduin
   <img src="../../media/Project1.jpg" alt="Centered Image" width="400"/>
 </p>
 
-### Rezultat așteptat:
+## Rezultat așteptat:
 Când rotiți un potențiometru, luminozitatea culorii LED asociate ar trebui să se schimbe în consecință. Ajustând cele trei potențiometre, se pot combina diferite cantități de roșu, verde și albastru pentru a produce o gamă largă de culori pe LED-ul RGB.
 
 ## Proof that it works:
