@@ -20,7 +20,7 @@ Un buzzer este folosit pentru a indica când liftul începe să se miște și c�
   <img src="../../media/Project2.jpg" alt="Centered Image" width="400"/>
 </p>
 
-## Funcționare:
+### Funcționare:
 Liftul verifică în mod continuu dacă a fost apăsat vreun buton. Dacă un buton este apăsat, etajul corespunzător este adăugat într-o coadă (floorQueue).
 
 Când liftul nu se mișcă și există etaje în coadă, începe să se deplaseze către primul etaj din coadă. În timp ce liftul se mișcă, LED-ul de funcționare clipește și buzzerul sună.
