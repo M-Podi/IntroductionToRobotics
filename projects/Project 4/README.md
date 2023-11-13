@@ -9,7 +9,7 @@ Cronometrul trebuie să numere în zecimi de secundă și să aibă funcționali
 ### Configurație:
 
 <p align="center">
-  <img src="../../media/Homework5CircuitView.jpg" alt="Centered Image" width="400"/>
+  <img src="../../media/Homework4CircuitView.jpg" alt="Centered Image" width="400"/>
 </p>
 
 Componentele includ un afișaj de 4 cifre a câte 7 segmente, 2 butoane, un joystick și un buzzer, alături de rezistori și fire necesare. 
@@ -27,7 +27,7 @@ La apăsarea butonului de start, cronometrul începe să numere. În modul de nu
 Joystick-ul este folosit pentru a cicla prin timpurile tururilor salvate.
 
 <p align="center">
-  <img src="../../media/Homework5.jpg" alt="Centered Image" width="400"/>
+  <img src="../../media/Homework4.jpg" alt="Centered Image" width="400"/>
 </p>
 
 ## Rezultat așteptat:
