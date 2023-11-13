@@ -34,6 +34,5 @@ Joystick-ul este folosit pentru a cicla prin timpurile tururilor salvate.
 Cronometrul ar trebui să numere precis în zecimi de secundă, să permită salvarea și vizualizarea tururilor, și să fie controlabil prin butoanele dedicate.
 
 ## Proof that it works:
-Link către un videoclip demonstrativ:
 
 https://youtu.be/UorVCmpK93o
