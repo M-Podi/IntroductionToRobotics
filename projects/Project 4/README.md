@@ -16,15 +16,15 @@ Componentele includ un afișaj de 4 cifre a câte 7 segmente, 2 butoane, un joys
 Fiecare buton are funcționalități specifice:
 - Butonul 1: Începere/Pauză.
 - Butonul 2: Resetare (în modul pauză) și resetarea tururilor salvate (în modul vizualizare tururi).
-- Joystick: Salvarea turului (în modul de numărare) și ciclarea prin ultimele tururi salvate (până la 4).
+- Joystick: Salvarea turului (în modul de numărare) și ciclarea prin ultimele tururi salvate (până la 5).
 
 Valorile inițiale pe afișaj sunt "000.0". 
 
 ### Funcționare:
 
-La apăsarea butonului de start, cronometrul începe să numere. În modul de numărare, apăsarea joystick-ului salvează valoarea cronometrului în memorie (până la 4 tururi). 
+La apăsarea butonului de start, cronometrul începe să numere. În modul de numărare, apăsarea joystick-ului salvează valoarea cronometrului în memorie (cele mai vechi tururi salvare se suprascriu la depasirea numărului maxim de tururi). 
 În modul pauză, joystick-ul nu mai funcționează. Apăsarea butonului de resetare în modul pauză resetează cronometrul la "000.0". 
-Joystick-ul este folosit pentru a cicla prin timpurile tururilor salvate.
+Joystick-ul este folosit pentru a cicla prin timpurile tururilor salvate. Apăsarea butonului de resetare în modul de vizualizare a tururilor resetează tururile salvate. Buzzer-ul este folosit pentru a oferi un feedback la fiecare interacțiune a utilizatorului.
 
 <p align="center">
   <img src="../../media/Homework4.jpg" alt="Centered Image" width="400"/>
