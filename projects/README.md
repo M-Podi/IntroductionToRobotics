@@ -10,6 +10,6 @@ This folder contains a compilation of the various robotics projects I've underta
 
 [7-Segment Display](https://github.com/M-Podi/IntroductionToRobotics/tree/main/projects/Project%203):
 
-[StopWatch]():
+[StopWatch](https://github.com/M-Podi/IntroductionToRobotics/tree/main/projects/Project%204):
 
 Dive in to explore each project's objectives, my approach, and the outcomes!
