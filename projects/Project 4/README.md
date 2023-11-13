@@ -35,4 +35,5 @@ Cronometrul ar trebui să numere precis în zecimi de secundă, să permită sal
 
 ## Proof that it works:
 Link către un videoclip demonstrativ:
-[https://youtu.be/UorVCmpK93o]
+
+https://youtu.be/UorVCmpK93o
