@@ -2,7 +2,7 @@
   <img src="./media/ITRW.png" alt="Centered Image" width="400"/>
 </p>
 
-# IntroductionToRobotics
+# IntroductionToRobotics (2023 - 2024)
 
 Welcome to the "IntroductionToRobotics" repository! This repository showcases my journey and work in the fascinating world of robotics. It's designed to give a brief insight into my projects, my thought process, and the solutions I implemented.
 
