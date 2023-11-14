@@ -1,5 +1,5 @@
 
-# Tema #4 - Cronometru: Introducere în Robotică
+# Introducere în Robotică: Cronometru
 
 ## Obiectiv:
 Crearea unui cronometru cu afișaj pe 4 cifre și 7 segmente, controlat prin 2 butoane și un joystick. 
