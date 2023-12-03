@@ -22,7 +22,7 @@ La pornirea arduino-ului, este afișat meniul principal pe display-ul lcd. Acest
 
 Jocul constă într-un labirint ce conține două tipuri de structuri: pereți solizi (reprezentați de un led care stă în permanență aprins) și pereți care se pot sparge (reprezentați de un led care se aprinde și se stinge într-un interval foarte scurt de timp). Scopul jucătorului (reprezentat pe hartă de un led care se aprinde și se stinge la un interval puțin mai mare de timp în comparație cu pereții) este de a găsi drumul cel mai scurt spre capătul labirintului. Deoarece complexitatea jocului era limitată de dimensiunea matricei (8x8 led-uri), jocul implementează noțiunea de pov (point of view), o vedere de sus a hărții care se mută pentru a menține player-ul cât mai aproape de centrul hărții. La apăsarea joystick-ului, player-ul trimite un proiectil (reprezentat de un led care se mișcă repede pe hartă) în ultima direcție în care a fost orientat. Aceste proiectile pot sparge pereții (cu excepția celor solizi) și astfel deblochează drumuri prin labirint. În timpul jocului, display-ul lcd afișează durata de timp petrecută în labirint.
 
-![Centered Image](../../media/Project5.jpeg)
+![Centered Image](../../media/Project5.jpg)
 
 ## Rezultat Așteptat
 
@@ -30,4 +30,4 @@ Astfel am realizat un joc distractiv și ușor de înțeles, folosindu-ne de com
 
 ## Proof that it works
 
-[Video Demonstration](https://youtu.be/UorVCmpK93o)
+[Video Demonstration](https://youtu.be/_FXRRNarRLw)
