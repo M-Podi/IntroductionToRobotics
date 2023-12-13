@@ -20,6 +20,7 @@ La pornirea Arduino-ului, este afișat un mesaj de introducere pentru o perioad�
 
 Astfel am reușit să îmbunătățim experiența de joc prin adăugarea funcțiilor de optimizare a luminozității, păstrând totuși un meniu interactiv ușor de navigat.
 
-## Proof that it works
+## Proof that it works 
 
-[Demonstrație Video](https://youtu.be/go_nOatffBc)
+[Video Demonstration](https://youtu.be/go_nOatffBc)
+
