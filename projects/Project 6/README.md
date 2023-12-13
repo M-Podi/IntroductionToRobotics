@@ -22,4 +22,4 @@ Astfel am reușit să îmbunătățim experiența de joc prin adăugarea funcți
 
 ## Proof that it works
 
-[Demonstrație Video](https://youtu.be/_FXRRNarRLw)
+[Demonstrație Video]([[https://youtu.be/_FXRRNarRLw](https://youtu.be/go_nOatffBc](https://youtu.be/go_nOatffBc)https://youtu.be/go_nOatffBc])
